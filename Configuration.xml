@@ -1,0 +1,14 @@
+<Configuration>
+<Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+<Product ID="ProPlus2024Volume" PIDKEY="2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2">
+<Language ID="pt-br"/>
+</Product>
+</Add>
+<RemoveMSI/>
+<Property Name="AUTOACTIVATE" Value="1"/>
+</Configuration>
+
+
+hex code 
+3b3b73657269616c2070617261206120617469766163616f20706f7320696e7374616c6c20
+Y63J7-9RNDJ-GD3BV-BDKBP-HH966
